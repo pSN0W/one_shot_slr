@@ -1,0 +1,6 @@
+data/
+mlartifacts/
+mlruns/
+research/
+*.ipynb
+__pycache__
